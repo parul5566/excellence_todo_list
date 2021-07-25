@@ -1,2 +1,2 @@
-# excellence_todo_list
+# excellence_todo
 todo_list
